@@ -422,3 +422,4 @@ a {
 ![alt text](images/image-33.png)
 
 
+# 30/10/2024 - INICIO CURSO HTML E CSS - DAY 3
